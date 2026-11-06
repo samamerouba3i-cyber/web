@@ -10,7 +10,7 @@
     
     $salim=10;
     echo $salim;
-    
+    wqxg
     
     ?>
 </body>
